@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NGtestSVG/static/css/main.cb130341.css",
+    "main.js": "/NGtestSVG/static/js/main.8e155755.js",
+    "index.html": "/NGtestSVG/index.html",
+    "main.cb130341.css.map": "/NGtestSVG/static/css/main.cb130341.css.map",
+    "main.8e155755.js.map": "/NGtestSVG/static/js/main.8e155755.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb130341.css",
+    "static/js/main.8e155755.js"
+  ]
+}
